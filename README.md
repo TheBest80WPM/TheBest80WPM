@@ -5,4 +5,4 @@
 - ✨ I like to recreate what is already made, since it gives me that personal touch I love more than anything
 
 
-![](quote1.png)
+![](https://pbs.twimg.com/media/DmK_xgyXsAA2mo8?format=jpg&name=medium)
