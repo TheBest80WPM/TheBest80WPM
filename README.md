@@ -5,4 +5,4 @@
 - ✨ I like to recreate what is already made, since it gives me that personal touch I love more than anything
 
 
-<img src=“https://github.com/TheBest80WPM/quote1.png”>
+![](quote1.png)
